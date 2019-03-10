@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 if [[ -z "$API_NAME" ]]; then
-    API_NAME="localhost";
+    API_NAME="34.73.12.231";
 fi
 
 echo API_NAME: $API_NAME
